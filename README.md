@@ -52,6 +52,8 @@ $ ./compile_stack.sh --verbose
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00CC66)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00CC66)
 ![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=00CC66)
+![Dart](https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=00CC66)
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=kotlin&logoColor=00CC66)
 
 </td>
 </tr>
@@ -67,6 +69,16 @@ $ ./compile_stack.sh --verbose
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=flat-square&logo=framer&logoColor=00CC66)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=00CC66)
 ![Material UI](https://img.shields.io/badge/Material_UI-000000?style=flat-square&logo=mui&logoColor=00CC66)
+
+<tr>
+<td valign="top"><sub><b>MOBILE</b></sub></td>
+<td>
+
+![React Native](https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=00CC66)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=00CC66)
+
+</td>
+</tr>
 
 </td>
 </tr>
