@@ -150,6 +150,7 @@ $ ./compile_stack.sh --verbose
 
 ![Playwright](https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright&logoColor=00CC66)
 ![Pytest](https://img.shields.io/badge/Pytest-000000?style=flat-square&logo=pytest&logoColor=00CC66)
+![SonarQube](https://img.shields.io/badge/SonarQube-000000?style=flat-square&logo=sonarqubeserver&logoColor=00CC66)
 ![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=00CC66)
 
 </td>
